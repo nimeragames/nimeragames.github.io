@@ -1,0 +1,4 @@
+# app-ads.txt for My Mini Casino (Nimera Games)
+# Replace everything below with the list from the LevelPlay dashboard:
+# Unity Cloud -> LevelPlay -> Setup -> app-ads.txt (copy the whole list, it contains your own publisher IDs).
+# The file must open at the root of the site you give as "Website" in Google Play Console and App Store Connect.
